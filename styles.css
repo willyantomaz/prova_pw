@@ -31,6 +31,21 @@ h1 {
     color: #fffdfd;
     text-align: center;
 }
+li  {
+    list-style-position: inherit;
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    align-items: center;
+}
+#Estados{
+    text-decoration: none;
+    color: #333;
+}
+#municipios{
+    text-decoration: none;
+    color: #333;
+}
 p {
     margin-top: 40px;
     text-align: center;
@@ -39,10 +54,4 @@ p {
 
 footer {
     background-color: #333;
-}
-li  {
-    text-decoration: none;
-    color: #333;
-    text-align: center;
-    align-items: center;
 }
