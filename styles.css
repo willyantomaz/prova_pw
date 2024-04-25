@@ -40,3 +40,9 @@ p {
 footer {
     background-color: #333;
 }
+li  {
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    align-items: center;
+}
